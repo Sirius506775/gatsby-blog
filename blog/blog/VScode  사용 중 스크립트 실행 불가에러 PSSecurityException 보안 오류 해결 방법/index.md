@@ -1,3 +1,15 @@
+---
+title: "VScode 사용 중 스크립트 실행 불가에러 PSSecurityException 보안 오류 해결 방법"
+date: "2023-01-06"
+slug: "PSSecurityException Solution"
+hero_image: "./image4.jpg"
+hero_image_alt: "A white pitbull wearing big googly-eye glasses"
+hero_image_credit_text: "Jane Almon"
+hero_image_credit_link: "https://unsplash.com/photos/7rriIaBH6JY"
+---
+
+이 포스팅은 보안 오류: (") []. PSSecurityException 오류 해결 방법을 제공한다.   
+
 ## 문제증상
 VScode에서 npm으로 Gatsby 설치 후 버젼을 확인하려고 `gatsby -v` 를 실행하니 아래와 같이 스크립트 실행 불가 에러가 발생하였다. 
 ![[Pasted image 20230106205609.png]]
